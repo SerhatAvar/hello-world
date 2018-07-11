@@ -2,4 +2,4 @@
 Just start with github
 
 
-Serhat here, I lave the snake(Python).
+Serhat here, I love the snake(Python).
